@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width:80% ;
+    margin:auto ;
+    border: 1px solid blue;
+    display: flex;
+    padding-left: 4px;
+    padding-top: 20px;
+}
+.main-section{
+    width: 100%;
+    display: flex;
+}
+
+.listing-order{
+  list-style: none;
+}
+
